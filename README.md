@@ -1,3 +1,4 @@
+![logo](https://github.com/Rashmidias19/Rashmidias19/blob/main/WhatsApp%20Image%202023-03-22%20at%2020.51.21.jpg)
 <h1 align="center">Hi 👋, I'm Rashmi Dias</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
