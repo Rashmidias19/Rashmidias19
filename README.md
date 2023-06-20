@@ -102,13 +102,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashmidias19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="182" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashmidias19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+
   <img src="https://streak-stats.demolab.com?user=Rashmidias19&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=11&order=3" height="185" alt="streak graph"  />
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Rashmidias19/Rashmidias19/output/snake.svg" alt="Snake animation" />
 
 ###
