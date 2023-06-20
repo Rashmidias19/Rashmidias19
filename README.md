@@ -105,7 +105,7 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmidias19&show_icons=true&theme=github_dark&hide_border=false&border_radius=11&order=3&locale=en&layout=compact" alt="rashmidias19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmidias19&show_icons=true&locale=en" alt="rashmidias19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmidias19&show_icons=truetheme=github_dark&hide_border=false&border_radius=11&order=3&locale=en" alt="rashmidias19" /></p>
 
 
   <img src="https://streak-stats.demolab.com?user=Rashmidias19&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=11&order=3" height="185" alt="streak graph"  />
